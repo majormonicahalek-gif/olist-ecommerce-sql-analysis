@@ -98,6 +98,6 @@ MySQL, SQL (joins, CTEs, window functions, aggregations).
 
 ## Author
 
-[Monicah Alek] | [YOUR LINKEDIN LINK]
+[Monicah Alek] | [www.linkedin.com/in/monicah-majok]
 
 
