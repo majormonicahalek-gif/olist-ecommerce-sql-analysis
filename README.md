@@ -38,7 +38,7 @@ The analysis uses 9 CSV files from the Olist e-commerce dataset:
 
 ** **Project Scope**
 
-This project analyzes a sample of the Olist e-commerce dataset using MySQL. The analysis focuses on 9,300 delivered orders from 2017, covering approximately 9,000 customers and R$1.28 million in item revenue.
+This project analyzes a sample of the Olist e-commerce dataset using MySQL. The analysis focuses on 9,300 delivered orders from 2017, covering approximately 9,000 customers and 1.28 million in item revenue.
 
 The project investigates sales performance, customer purchasing behavior, order values, and revenue distribution to identify useful business insights and trends.
 
