@@ -22,12 +22,11 @@ Olist is a Brazilian online marketplace that connects small sellers with custome
 
 ## Dataset Description
 
-The analysis uses 9 CSV files from the Olist e-commerce dataset:
+The analysis uses 8 CSV files from the Olist e-commerce dataset:
 
 | Table | Contents |
 |---|---|
 | `customers` | Customer IDs and location |
-| `geolocation` | Zip code coordinates |
 | `orders` | Order status and purchase, approval, delivery and estimated delivery dates |
 | `order_items` | Items per order, price, freight, seller |
 | `order_payments` | Payment type, installments, payment value |
